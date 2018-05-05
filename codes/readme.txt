@@ -1,3 +1,9 @@
+Team Name: Marauders
+Members: 
+	Jayanth Shankar - 140050039
+	Divakar Reddy - 140050044
+	Rishabh Chavhan - 140050061
+	Thanuj Raju - 140050077
 svhn_cnn is used to identify the digit
 stage_1_cnn is used to determine whether an image has digit or not using cnn
 stage_1_svm is used to determine whether an image has digit or not using svm
